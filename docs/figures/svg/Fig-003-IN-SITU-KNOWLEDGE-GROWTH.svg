@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 z" fill="#5A6B7A"/>
+    </marker>
+    <marker id="arrow2" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 z" fill="#8A5A00"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="1400" height="900" fill="#FBFAF7"/>
+  <text x="70" y="70" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#243042">In-Situ Knowledge Growth</text>
+  <path d="M160 650 C280 620, 320 570, 370 560 C470 535, 520 470, 590 450 C710 415, 760 365, 820 340 C930 300, 990 250, 1060 235" fill="none" stroke="#8A5A00" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="160" cy="650" r="68" fill="#D8E9FF" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="160" y="639.55" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#243042">Prenatal</text>
+  <text x="160" y="661.4" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#243042">patterns</text>
+  <circle cx="370" cy="560" r="68" fill="#DFF3E4" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="370" y="549.55" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#243042">Infant</text>
+  <text x="370" y="571.4" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#243042">anchors</text>
+  <circle cx="590" cy="450" r="68" fill="#FFF3C7" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="590" y="439.55" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#243042">Child</text>
+  <text x="590" y="461.40000000000003" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#243042">concepts</text>
+  <circle cx="820" cy="340" r="68" fill="#FFE3CC" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="820" y="329.55" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#243042">Student</text>
+  <text x="820" y="351.40000000000003" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#243042">questions</text>
+  <circle cx="1060" cy="235" r="68" fill="#E7DEFF" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="1060" y="224.55" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#243042">Scientist</text>
+  <text x="1060" y="246.4" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#243042">theories</text>
+  <rect x="250" y="740" width="900" height="70" rx="20" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="700.0" y="771.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#243042">Growth is additive, local, and cumulative — not repeated rewriting from</text>
+  <text x="700.0" y="799.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#243042">zero.</text>
+  <text x="70" y="850" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#667085">Structural Cognitive Emergence (SCE) · Fig-003</text>
+</svg>

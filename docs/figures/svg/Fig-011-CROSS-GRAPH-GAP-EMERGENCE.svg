@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 z" fill="#5A6B7A"/>
+    </marker>
+    <marker id="arrow2" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 z" fill="#8A5A00"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="1400" height="900" fill="#FBFAF7"/>
+  <text x="70" y="70" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#243042">Cross-Graph Gap Emergence</text>
+  <rect x="120" y="250" width="360" height="290" rx="20" fill="#D8E9FF" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="300.0" y="350.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#243042">Graph A</text>
+  <text x="300.0" y="377.6" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#243042"></text>
+  <text x="300.0" y="405.2" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#243042">Physics</text>
+  <text x="300.0" y="432.8" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#243042">Technology</text>
+  <text x="300.0" y="460.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#243042">Known Relations</text>
+  <rect x="920" y="250" width="360" height="290" rx="20" fill="#DFF3E4" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="1100.0" y="350.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#243042">Graph B</text>
+  <text x="1100.0" y="377.6" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#243042"></text>
+  <text x="1100.0" y="405.2" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#243042">Biology</text>
+  <text x="1100.0" y="432.8" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#243042">Human Need</text>
+  <text x="1100.0" y="460.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#243042">Known Relations</text>
+  <circle cx="700" cy="395" r="105" fill="#FFF3C7" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="700" y="381.25" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#243042">Cross-Graph</text>
+  <text x="700" y="410.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#243042">GAP</text>
+  <line x1="480" y1="395" x2="595" y2="395" stroke="#5A6B7A" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="537.5" y="385.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#667085">boundary</text>
+  <line x1="920" y1="395" x2="805" y2="395" stroke="#5A6B7A" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="862.5" y="385.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#667085">boundary</text>
+  <line x1="700" y1="500" x2="700" y2="640" stroke="#5A6B7A" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="700.0" y="560.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#667085">trigger</text>
+  <rect x="520" y="650" width="360" height="90" rx="20" fill="#F8DDEB" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="700.0" y="691.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#243042">New Question</text>
+  <text x="700.0" y="719.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#243042">New Discovery Space</text>
+  <rect x="245" y="735" width="910" height="60" rx="20" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="700.0" y="761.55" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#243042">Multi-Brain systems can produce richer cross-graph gaps than a single</text>
+  <text x="700.0" y="788.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#243042">mature graph.</text>
+  <text x="70" y="850" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#667085">Structural Cognitive Emergence (SCE) · Fig-011</text>
+</svg>

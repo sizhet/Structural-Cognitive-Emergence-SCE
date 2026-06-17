@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 z" fill="#5A6B7A"/>
+    </marker>
+    <marker id="arrow2" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 z" fill="#8A5A00"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="1400" height="900" fill="#FBFAF7"/>
+  <text x="70" y="70" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#243042">Education as Question Preservation</text>
+  <rect x="150" y="250" width="280" height="120" rx="20" fill="#FFE1E1" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="290.0" y="306.7" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#243042">Answer-Only</text>
+  <text x="290.0" y="332.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#243042">Education</text>
+  <line x1="430" y1="310" x2="610" y2="310" stroke="#5A6B7A" stroke-width="3" marker-end="url(#arrow)"/>
+  <rect x="610" y="250" width="280" height="120" rx="20" fill="#EEF2F6" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="750.0" y="306.7" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#243042">Closure</text>
+  <text x="750.0" y="332.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#243042">Find answer → Stop</text>
+  <rect x="150" y="530" width="280" height="120" rx="20" fill="#DFF3E4" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="290.0" y="586.85" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#243042">Question-Preserving</text>
+  <text x="290.0" y="611.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#243042">Education</text>
+  <line x1="430" y1="590" x2="610" y2="590" stroke="#5A6B7A" stroke-width="3" marker-end="url(#arrow)"/>
+  <rect x="610" y="530" width="280" height="120" rx="20" fill="#FFF3C7" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="750.0" y="586.7" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#243042">Growth</text>
+  <text x="750.0" y="612.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#243042">Answer → New gap</text>
+  <line x1="890" y1="590" x2="1070" y2="590" stroke="#5A6B7A" stroke-width="3" marker-end="url(#arrow)"/>
+  <circle cx="1160" cy="590" r="72" fill="#E7DEFF" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="1160" y="577.9" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#243042">Better</text>
+  <text x="1160" y="603.1999999999999" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#243042">WHY</text>
+  <rect x="990" y="250" width="260" height="120" rx="20" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="1120.0" y="294.05" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#243042">Goal:</text>
+  <text x="1120.0" y="319.35" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#243042">not less why,</text>
+  <text x="1120.0" y="344.65" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#243042">better why</text>
+  <text x="70" y="850" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#667085">Structural Cognitive Emergence (SCE) · Fig-008</text>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 z" fill="#5A6B7A"/>
+    </marker>
+    <marker id="arrow2" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 z" fill="#8A5A00"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="1400" height="900" fill="#FBFAF7"/>
+  <text x="70" y="70" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#243042">Structural Cognitive Emergence</text>
+  <circle cx="700" cy="165" r="78" fill="#D8E9FF" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="700" y="165.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#243042">Observation</text>
+  <circle cx="980" cy="280" r="78" fill="#DFF3E4" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="980" y="269.55" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#243042">Differential</text>
+  <text x="980" y="291.40000000000003" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#243042">Formation</text>
+  <circle cx="1060" cy="520" r="78" fill="#FFF3C7" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="1060" y="509.55" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#243042">Concept</text>
+  <text x="1060" y="531.4" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#243042">Emergence</text>
+  <circle cx="700" cy="670" r="78" fill="#FFE3CC" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="700" y="659.55" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#243042">Calling Graph</text>
+  <text x="700" y="681.4" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#243042">Growth</text>
+  <circle cx="340" cy="520" r="78" fill="#F8DDEB" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="340" y="509.55" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#243042">Gap</text>
+  <text x="340" y="531.4" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#243042">Detection</text>
+  <circle cx="420" cy="280" r="78" fill="#E7DEFF" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="420" y="269.55" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#243042">Question</text>
+  <text x="420" y="291.40000000000003" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#243042">Emergence</text>
+  <line x1="700" y1="245" x2="920" y2="270" stroke="#5A6B7A" stroke-width="3" marker-end="url(#arrow)"/>
+  <line x1="1020" y1="345" x2="1045" y2="455" stroke="#5A6B7A" stroke-width="3" marker-end="url(#arrow)"/>
+  <line x1="990" y1="570" x2="770" y2="645" stroke="#5A6B7A" stroke-width="3" marker-end="url(#arrow)"/>
+  <line x1="630" y1="645" x2="410" y2="570" stroke="#5A6B7A" stroke-width="3" marker-end="url(#arrow)"/>
+  <line x1="355" y1="455" x2="400" y2="345" stroke="#5A6B7A" stroke-width="3" marker-end="url(#arrow)"/>
+  <line x1="485" y1="270" x2="630" y2="185" stroke="#5A6B7A" stroke-width="3" marker-end="url(#arrow)"/>
+  <circle cx="700" cy="420" r="95" fill="#EEF2F6" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="700" y="405.7" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#243042">Growth</text>
+  <text x="700" y="435.59999999999997" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#243042">Loop</text>
+  <text x="70" y="850" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#667085">Structural Cognitive Emergence (SCE) · Fig-010</text>
+</svg>

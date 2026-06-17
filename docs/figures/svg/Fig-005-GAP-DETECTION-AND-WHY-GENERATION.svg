@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 z" fill="#5A6B7A"/>
+    </marker>
+    <marker id="arrow2" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 z" fill="#8A5A00"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="1400" height="900" fill="#FBFAF7"/>
+  <text x="70" y="70" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#243042">Gap Detection and Why Generation</text>
+  <rect x="170" y="210" width="240" height="95" rx="20" fill="#D8E9FF" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="290.0" y="266.85" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#243042">Bird → Fly</text>
+  <rect x="580" y="210" width="240" height="95" rx="20" fill="#DFF3E4" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="700.0" y="266.85" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#243042">Bat → Fly</text>
+  <rect x="990" y="210" width="240" height="95" rx="20" fill="#FFE3CC" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="1110.0" y="266.85" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#243042">Cat → No Fly</text>
+  <line x1="405" y1="260" x2="575" y2="260" stroke="#5A6B7A" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="490.0" y="250.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#667085">compare</text>
+  <line x1="815" y1="260" x2="985" y2="260" stroke="#5A6B7A" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="900.0" y="250.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#667085">contrast</text>
+  <rect x="405" y="430" width="590" height="115" rx="20" fill="#FFF3C7" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="700.0" y="484.2" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#243042">Structural Tension</text>
+  <text x="700.0" y="509.5" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#243042">Some animals fly. Some do not.</text>
+  <line x1="700" y1="545" x2="700" y2="650" stroke="#5A6B7A" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="700.0" y="587.5" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#667085">gap trigger</text>
+  <circle cx="700" cy="735" r="82" fill="#F8DDEB" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="700" y="735.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#243042">WHY?</text>
+  <text x="70" y="850" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#667085">Structural Cognitive Emergence (SCE) · Fig-005</text>
+</svg>

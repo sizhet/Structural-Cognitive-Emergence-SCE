@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 z" fill="#5A6B7A"/>
+    </marker>
+    <marker id="arrow2" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 z" fill="#8A5A00"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="1400" height="900" fill="#FBFAF7"/>
+  <text x="70" y="70" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#243042">Children, Scientists, and Entrepreneurs</text>
+  <circle cx="290" cy="260" r="78" fill="#D8E9FF" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="290" y="260.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#243042">Child</text>
+  <rect x="150" y="390" width="280" height="110" rx="20" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="290.0" y="441.55" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#243042">Why is the</text>
+  <text x="290.0" y="468.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#243042">sky blue?</text>
+  <line x1="290" y1="338" x2="290" y2="390" stroke="#5A6B7A" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="290.0" y="354.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#667085">gap → question</text>
+  <circle cx="700" cy="260" r="78" fill="#DFF3E4" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="700" y="260.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#243042">Scientist</text>
+  <rect x="560" y="390" width="280" height="110" rx="20" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="700.0" y="441.55" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#243042">Why does</text>
+  <text x="700.0" y="468.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#243042">gravity work?</text>
+  <line x1="700" y1="338" x2="700" y2="390" stroke="#5A6B7A" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="700.0" y="354.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#667085">gap → question</text>
+  <circle cx="1110" cy="260" r="78" fill="#FFE3CC" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="1110" y="260.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#243042">Entrepreneur</text>
+  <rect x="970" y="390" width="280" height="110" rx="20" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="1110.0" y="441.55" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#243042">Why must this</text>
+  <text x="1110.0" y="468.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#243042">be so hard?</text>
+  <line x1="1110" y1="338" x2="1110" y2="390" stroke="#5A6B7A" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="1110.0" y="354.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#667085">gap → question</text>
+  <rect x="250" y="650" width="900" height="92" rx="20" fill="#FFF3C7" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="700.0" y="707.05" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#243042">Shared mechanism: Gap Sensitivity → Question Density → Exploration → Growth</text>
+  <text x="70" y="850" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#667085">Structural Cognitive Emergence (SCE) · Fig-007</text>
+</svg>

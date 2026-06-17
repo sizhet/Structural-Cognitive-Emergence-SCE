@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 z" fill="#5A6B7A"/>
+    </marker>
+    <marker id="arrow2" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 z" fill="#8A5A00"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="1400" height="900" fill="#FBFAF7"/>
+  <text x="70" y="70" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#243042">Differential Concept Formation</text>
+  <rect x="575" y="150" width="250" height="85" rx="20" fill="#E7DEFF" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="700.0" y="201.85" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#243042">CAT Region</text>
+  <circle cx="250" cy="360" r="62" fill="#FFE3CC" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="250" y="360.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#243042">Cat A</text>
+  <line x1="700" y1="235" x2="250" y2="298" stroke="#5A6B7A" stroke-width="3"/>
+  <circle cx="550" cy="390" r="62" fill="#EEF2F6" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="550" y="390.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#243042">Cat B</text>
+  <line x1="700" y1="235" x2="550" y2="328" stroke="#5A6B7A" stroke-width="3"/>
+  <circle cx="850" cy="360" r="62" fill="#FFF3C7" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="850" y="360.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#243042">Cat C</text>
+  <line x1="700" y1="235" x2="850" y2="298" stroke="#5A6B7A" stroke-width="3"/>
+  <circle cx="1150" cy="430" r="62" fill="#D8E9FF" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="1150" y="430.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#243042">Cat D</text>
+  <line x1="700" y1="235" x2="1150" y2="368" stroke="#5A6B7A" stroke-width="3"/>
+  <rect x="180" y="610" width="330" height="100" rx="20" fill="#F8DDEB" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="345.0" y="656.7" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#243042">Variable Layer</text>
+  <text x="345.0" y="682.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#243042">color, size, location</text>
+  <rect x="535" y="610" width="330" height="100" rx="20" fill="#DFF3E4" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="700.0" y="656.7" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#243042">Common Core</text>
+  <text x="700.0" y="682.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#243042">tail, whiskers, animal</text>
+  <rect x="890" y="610" width="330" height="100" rx="20" fill="#FFF3C7" stroke="#CBD5E1" stroke-width="2" filter="url(#shadow)"/>
+  <text x="1055.0" y="656.7" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#243042">Trigger Threshold</text>
+  <text x="1055.0" y="682.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#243042">concept becomes usable</text>
+  <line x1="510" y1="660" x2="535" y2="660" stroke="#5A6B7A" stroke-width="3" marker-end="url(#arrow)"/>
+  <line x1="865" y1="660" x2="890" y2="660" stroke="#5A6B7A" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="70" y="850" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#667085">Structural Cognitive Emergence (SCE) · Fig-002</text>
+</svg>
