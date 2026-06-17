@@ -1,0 +1,38 @@
+{
+  "title": "Universal Task Language (UTL): A Structural Intermediate Language Between Human Intent and Autonomous Software Construction",
+  "creators": [
+    {
+      "name": "Tan, Sizhe",
+      "affiliation": "Independent Researcher"
+    },
+    {
+      "name": "GPT-Obot",
+      "affiliation": "AI collaborator"
+    }
+  ],
+  "description": "This repository proposes Universal Task Language (UTL), a structural intermediate language between human intent and autonomous software construction. UTL represents tasks, objectives, requirements, workflows, and plans independently of natural language, programming languages, frameworks, and implementation details. The project further introduces the Task All-in-one Graph, Universal Naming and Typing (UNT), All-in-one CallingGraph-based naming and typing, and the UTL-UNT dual semantic infrastructure. The central thesis is that future autonomous software engineering requires explicit task representation and implementation semantic compression before reliable AI Coding governance can become possible.",
+  "keywords": [
+    "Universal Task Language",
+    "UTL",
+    "Universal Naming and Typing",
+    "UNT",
+    "All-in-one CallingGraph",
+    "Task Graph",
+    "AI Coding",
+    "AI Coding Governance",
+    "Structural Intelligence",
+    "Semantic Infrastructure",
+    "Autonomous Software Engineering",
+    "Large Language Models",
+    "Human-AI Collaboration"
+  ],
+  "license": "Apache-2.0",
+  "upload_type": "software",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/sizhet/Universal-Task-Language-UTL",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
