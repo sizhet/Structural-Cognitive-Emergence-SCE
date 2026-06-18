@@ -2,6 +2,50 @@
 ## From Cat Recognition to Why Generation
 ### A Structural Theory of Concept Formation, Question Emergence, and Cognitive Growth
 
+## The Core Idea
+
+Structural Cognitive Emergence (SCE) explores a simple but profound hypothesis:
+
+> Concepts emerge from structures.
+>
+> Questions emerge from gaps.
+>
+> Intelligence grows through the continuous interaction of both.
+
+In the SCE framework:
+
+```text
+Structure
+↓
+Gap
+↓
+Question
+↓
+Exploration
+↓
+New Structure
+```
+
+forms a self-sustaining cognitive growth loop.
+
+This repository investigates how this loop may explain:
+
+* concept formation,
+* childhood curiosity,
+* scientific discovery,
+* entrepreneurship,
+* education,
+* autonomous AI,
+* and future multi-brain cognitive systems.
+
+---
+
+#### Fig-000-SCE-Overview.png
+
+![(docs/figures/Fig-000-SCE-Overview.png](docs/figures/Fig-000-SCE-Overview.png)
+
+---
+
 ## Introduction
 
 One of the deepest mysteries in intelligence is surprisingly simple.
