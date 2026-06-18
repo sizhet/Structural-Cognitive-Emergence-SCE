@@ -119,3 +119,7 @@
 39. Universal Task Language (UTL) - \
     A Structural Intermediate Language Between Human Intent and Autonomous Software Construction \
     Repository: https://github.com/sizhet/Universal-Task-Language-UTL
+    
+40. Structural Cognitive Emergence (SCE) - From Cat Recognition to Why Generation \
+    A Structural Theory of Concept Formation, Question Emergence, and Cognitive Growth \
+    Repository: https://github.com/sizhet/Structural-Cognitive-Emergence-SCE
