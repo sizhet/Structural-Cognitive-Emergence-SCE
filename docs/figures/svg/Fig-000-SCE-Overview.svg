@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1900" viewBox="0 0 1400 1900">
+  <defs>
+    <style>
+      .bg { fill: #fbfcff; }
+      .title { font-family: Arial, Helvetica, sans-serif; font-size: 46px; font-weight: 700; fill: #1f2937; }
+      .subtitle { font-family: Arial, Helvetica, sans-serif; font-size: 25px; fill: #4b5563; }
+      .node { fill: #ffffff; stroke: #334155; stroke-width: 3; rx: 24; }
+      .nodeAccent { fill: #eef6ff; stroke: #2563eb; stroke-width: 4; rx: 24; }
+      .nodeText { font-family: Arial, Helvetica, sans-serif; font-size: 30px; font-weight: 700; fill: #111827; text-anchor: middle; dominant-baseline: middle; }
+      .smallText { font-family: Arial, Helvetica, sans-serif; font-size: 21px; fill: #475569; text-anchor: middle; dominant-baseline: middle; }
+      .arrow { stroke: #475569; stroke-width: 4; fill: none; marker-end: url(#arrowhead); }
+      .loop { stroke: #2563eb; stroke-width: 5; fill: none; marker-end: url(#bluearrow); }
+      .principleBox { fill: #f8fafc; stroke: #94a3b8; stroke-width: 2; rx: 22; }
+      .principleTitle { font-family: Arial, Helvetica, sans-serif; font-size: 28px; font-weight: 700; fill: #1e293b; text-anchor: middle; }
+      .principleText { font-family: Arial, Helvetica, sans-serif; font-size: 24px; fill: #334155; text-anchor: middle; }
+      .footer { font-family: Arial, Helvetica, sans-serif; font-size: 20px; fill: #64748b; text-anchor: middle; }
+    </style>
+    <marker id="arrowhead" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M 0 0 L 12 6 L 0 12 z" fill="#475569" />
+    </marker>
+    <marker id="bluearrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M 0 0 L 12 6 L 0 12 z" fill="#2563eb" />
+    </marker>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1400" height="1900"/>
+
+  <text class="title" x="700" y="95" text-anchor="middle">Structural Cognitive Emergence (SCE)</text>
+  <text class="subtitle" x="700" y="140" text-anchor="middle">From Cat Recognition to Why Generation</text>
+
+  <rect class="node" x="430" y="220" width="540" height="92" rx="24"/>
+  <text class="nodeText" x="700" y="266">Observation</text>
+
+  <path class="arrow" d="M700 312 L700 372"/>
+
+  <rect class="node" x="430" y="380" width="540" height="92" rx="24"/>
+  <text class="nodeText" x="700" y="426">Differential Formation</text>
+
+  <path class="arrow" d="M700 472 L700 532"/>
+
+  <rect class="nodeAccent" x="430" y="540" width="540" height="92" rx="24"/>
+  <text class="nodeText" x="700" y="586">Concept Emergence</text>
+
+  <path class="arrow" d="M700 632 L700 692"/>
+
+  <rect class="node" x="430" y="700" width="540" height="92" rx="24"/>
+  <text class="nodeText" x="700" y="746">Calling Graph Growth</text>
+
+  <path class="arrow" d="M700 792 L700 852"/>
+
+  <rect class="nodeAccent" x="430" y="860" width="540" height="92" rx="24"/>
+  <text class="nodeText" x="700" y="906">Gap Detection</text>
+
+  <path class="arrow" d="M700 952 L700 1012"/>
+
+  <rect class="nodeAccent" x="430" y="1020" width="540" height="92" rx="24"/>
+  <text class="nodeText" x="700" y="1066">Question Emergence</text>
+
+  <path class="arrow" d="M700 1112 L700 1172"/>
+
+  <rect class="node" x="430" y="1180" width="540" height="92" rx="24"/>
+  <text class="nodeText" x="700" y="1226">Exploration</text>
+
+  <path class="arrow" d="M700 1272 L700 1332"/>
+
+  <rect class="node" x="430" y="1340" width="540" height="92" rx="24"/>
+  <text class="nodeText" x="700" y="1386">New Structure</text>
+
+  <path class="arrow" d="M700 1432 L700 1492"/>
+
+  <rect class="node" x="430" y="1500" width="540" height="92" rx="24"/>
+  <text class="nodeText" x="700" y="1546">Further Growth</text>
+
+  <path class="loop" d="M980 1546 C1190 1546 1190 266 985 266"/>
+  <text class="smallText" x="1190" y="930" transform="rotate(90 1190 930)">Continuous cognitive loop</text>
+
+  <rect class="principleBox" x="170" y="1655" width="1060" height="155" rx="22"/>
+  <text class="principleTitle" x="700" y="1702">Core Principle</text>
+  <text class="principleText" x="700" y="1747">Concepts emerge from structures. Questions emerge from gaps.</text>
+  <text class="principleText" x="700" y="1787">Intelligence grows through the interaction of both.</text>
+
+  <text class="footer" x="700" y="1855">Fig-000 — Structural Cognitive Emergence Overview</text>
+</svg>
