@@ -45,7 +45,7 @@ Questions provide growth.
 Both are necessary.
 
 ---
-#### Fig-008-EDUCATION-AS-QUESTION-PRESERVATION.png
+### Fig-008-EDUCATION-AS-QUESTION-PRESERVATION.png
 
 ![./figures/Fig-008-EDUCATION-AS-QUESTION-PRESERVATION.png](./figures/Fig-008-EDUCATION-AS-QUESTION-PRESERVATION.png)
 

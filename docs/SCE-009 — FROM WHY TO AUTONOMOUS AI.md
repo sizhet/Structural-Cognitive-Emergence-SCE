@@ -39,7 +39,7 @@ Structural Cognitive Emergence proposes a simple hypothesis:
 To understand why, we must first examine the role of questions in biological cognition.
 
 ---
-#### Fig-009-FROM-WHY-TO-AUTONOMOUS-AI.png
+### Fig-009-FROM-WHY-TO-AUTONOMOUS-AI.png
 
 ![./figures/Fig-009-FROM-WHY-TO-AUTONOMOUS-AI.png](./figures/Fig-009-FROM-WHY-TO-AUTONOMOUS-AI.png)
 

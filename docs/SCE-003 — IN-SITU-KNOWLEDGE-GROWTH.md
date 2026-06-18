@@ -38,7 +38,7 @@ If true, this simple idea may help explain:
 * and even the emergence of curiosity itself.
 
 ---
-#### Fig-003-IN-SITU-KNOWLEDGE-GROWTH.png
+### Fig-003-IN-SITU-KNOWLEDGE-GROWTH.png
 
 ![./figures/Fig-003-IN-SITU-KNOWLEDGE-GROWTH.png](./figures/Fig-003-IN-SITU-KNOWLEDGE-GROWTH.png)
 

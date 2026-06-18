@@ -39,7 +39,7 @@ This document introduces:
 as a possible extension of the SCE framework.
 
 ---
-#### Fig-011-CROSS-GRAPH-GAP-EMERGENCE.png
+### Fig-011-CROSS-GRAPH-GAP-EMERGENCE.png
 
 ![./figures/Fig-011-CROSS-GRAPH-GAP-EMERGENCE.png](./figures/Fig-011-CROSS-GRAPH-GAP-EMERGENCE.png)
 

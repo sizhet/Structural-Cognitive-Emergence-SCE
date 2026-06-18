@@ -35,7 +35,7 @@ The purpose of this document is not to provide a final answer.
 Instead, it proposes a structural perspective that may help explain why concept formation appears so efficient in biological cognition.
 
 ---
-#### Fig-001-THE-CAT-PROBLEM.png
+### Fig-001-THE-CAT-PROBLEM.png
 
 ![./figures/Fig-001-THE-CAT-PROBLEM.png](./figures/Fig-001-THE-CAT-PROBLEM.png)
 

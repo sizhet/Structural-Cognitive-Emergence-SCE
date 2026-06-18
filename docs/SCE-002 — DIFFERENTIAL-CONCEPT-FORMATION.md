@@ -27,7 +27,7 @@ This document proposes a different perspective:
 > Concepts may emerge through differential structure formation rather than simple feature accumulation.
 
 ---
-#### Fig-002-DIFFERENTIAL-CONCEPT-FORMATION.png
+### Fig-002-DIFFERENTIAL-CONCEPT-FORMATION.png
 
 ![./figures/Fig-002-DIFFERENTIAL-CONCEPT-FORMATION.png](./figures/Fig-002-DIFFERENTIAL-CONCEPT-FORMATION.png)
 
