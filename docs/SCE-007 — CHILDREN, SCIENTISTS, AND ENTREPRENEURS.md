@@ -49,6 +49,11 @@ Structural Cognitive Emergence proposes a simple possibility:
 > The greatest explorers preserve a form of childhood question generation throughout their lives.
 
 ---
+#### Fig-007-CHILDREN-SCIENTISTS-ENTREPRENEURS.png
+
+![./figures/Fig-007-CHILDREN-SCIENTISTS-ENTREPRENEURS.png](./figures/Fig-007-CHILDREN-SCIENTISTS-ENTREPRENEURS.png)
+
+---
 
 # The Curious Child
 

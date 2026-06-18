@@ -39,6 +39,11 @@ Yet throughout this repository we have explored a different possibility:
 This document summarizes the Structural Cognitive Emergence framework and proposes a unified view of cognitive growth.
 
 ---
+#### Fig-010-STRUCTURAL-COGNITIVE-EMERGENCE.png
+
+![./figures/Fig-010-STRUCTURAL-COGNITIVE-EMERGENCE.png](./figures/Fig-010-STRUCTURAL-COGNITIVE-EMERGENCE.png)
+
+---
 
 # The Core Observation
 

@@ -54,6 +54,11 @@ This observation motivates a central hypothesis of Structural Cognitive Emergenc
 > Concepts may behave more like expanding calling graphs than isolated labels.
 
 ---
+#### Fig-004-CALLING-GRAPH-EMERGENCE.png
+
+![./figures/Fig-004-CALLING-GRAPH-EMERGENCE.png](./figures/Fig-004-CALLING-GRAPH-EMERGENCE.png)
+
+---
 
 # The Label View
 

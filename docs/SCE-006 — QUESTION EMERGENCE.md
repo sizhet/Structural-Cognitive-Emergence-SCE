@@ -49,6 +49,11 @@ They emerge.
 This document proposes that questions should be understood not as stored objects, but as cognitive events arising from structural growth and trigger activation.
 
 ---
+#### Fig-006-QUESTION-EMERGENCE.png
+
+![./figures/Fig-006-QUESTION-EMERGENCE.png](./figures/Fig-006-QUESTION-EMERGENCE.png)
+
+---
 
 # The Object View of Questions
 

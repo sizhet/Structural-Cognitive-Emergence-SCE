@@ -43,6 +43,11 @@ In this view, a question is not a stored object.
 A question is a triggered event.
 
 ---
+#### Fig-005-GAP-DETECTION-AND-WHY-GENERATION.png
+
+![./figures/Fig-005-GAP-DETECTION-AND-WHY-GENERATION.png](./figures/Fig-005-GAP-DETECTION-AND-WHY-GENERATION.png)
+
+---
 
 # The Traditional View of Questions
 
