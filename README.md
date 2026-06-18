@@ -48,6 +48,13 @@ Modern AI systems often require orders of magnitude more examples to achieve com
 
 Why?
 
+---
+#### Fig-001-THE-CAT-PROBLEM.png
+
+![./docs/figures/Fig-001-THE-CAT-PROBLEM.png](./docs/figures/Fig-001-THE-CAT-PROBLEM.png)
+
+---
+
 ### Puzzle 2: The Autonomous AI Problem
 
 Current AI systems are becoming increasingly capable of answering questions.
@@ -77,6 +84,13 @@ In this view:
 Intelligence is therefore not merely answer generation.
 
 Intelligence is the continuous emergence of concepts, questions, and new structures.
+
+---
+#### Fig-002-DIFFERENTIAL-CONCEPT-FORMATION.png
+
+![./docs/figures/Fig-002-DIFFERENTIAL-CONCEPT-FORMATION.png](./docs/figures/Fig-002-DIFFERENTIAL-CONCEPT-FORMATION.png)
+
+---
 
 ## From Recognition to Why
 
@@ -112,6 +126,13 @@ The most important step may be the appearance of the question.
 
 ## Why Children Ask So Many Questions
 
+---
+#### Fig-006-QUESTION-EMERGENCE.png
+
+![./docs/figures/Fig-006-QUESTION-EMERGENCE.png](./docs/figures/Fig-006-QUESTION-EMERGENCE.png)
+
+---
+
 Children are often viewed as asking questions because they know very little.
 
 SCE proposes a different interpretation.
@@ -134,6 +155,13 @@ In this view:
 > A question may be evidence of cognitive growth.
 
 ## Gap Detection and Why Generation
+
+---
+#### Fig-005-GAP-DETECTION-AND-WHY-GENERATION.png
+
+![./docs/figures/Fig-005-GAP-DETECTION-AND-WHY-GENERATION.png](./docs/figures/Fig-005-GAP-DETECTION-AND-WHY-GENERATION.png)
+
+---
 
 One of the core ideas explored in this repository is:
 
@@ -158,6 +186,13 @@ Questions emerge.
 
 ## Knowledge Grows In Place
 
+---
+#### Fig-003-IN-SITU-KNOWLEDGE-GROWTH.png
+
+![./docs/figures/Fig-003-IN-SITU-KNOWLEDGE-GROWTH.png](./docs/figures/Fig-003-IN-SITU-KNOWLEDGE-GROWTH.png)
+
+---
+
 SCE also proposes that knowledge may grow differently from how modern AI systems are typically trained.
 
 Instead of repeatedly replacing old structures, biological cognition may primarily expand existing structures in place.
@@ -178,6 +213,13 @@ Learning becomes less like rewriting.
 Learning becomes more like growth.
 
 ## Concepts as Calling Graphs
+
+---
+#### Fig-004-CALLING-GRAPH-EMERGENCE.png
+
+![./docs/figures/Fig-004-CALLING-GRAPH-EMERGENCE.png](./docs/figures/Fig-004-CALLING-GRAPH-EMERGENCE.png)
+
+---
 
 Another central idea explored in this repository is that concepts are not merely labels.
 
@@ -209,6 +251,13 @@ As new gaps appear, new questions emerge.
 
 ## From Children to Scientists
 
+---
+#### Fig-007-CHILDREN-SCIENTISTS-ENTREPRENEURS.png
+
+![./docs/figures/Fig-007-CHILDREN-SCIENTISTS-ENTREPRENEURS.png](./docs/figures/Fig-007-CHILDREN-SCIENTISTS-ENTREPRENEURS.png)
+
+---
+
 The same mechanism may operate across all scales of cognition.
 
 A child asks:
@@ -230,6 +279,13 @@ Each question emerges from a perceived structural gap.
 In this sense, scientific discovery may be an extension of childhood curiosity rather than its replacement.
 
 ## Toward Autonomous AI
+
+---
+#### Fig-009-FROM-WHY-TO-AUTONOMOUS-AI.png
+
+![./figures/Docs/Fig-009-FROM-WHY-TO-AUTONOMOUS-AI.png](./docs/figures/Fig-009-FROM-WHY-TO-AUTONOMOUS-AI.png)
+
+---
 
 Modern AI systems have become extraordinarily capable answer generators.
 
