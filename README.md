@@ -40,7 +40,7 @@ This repository investigates how this loop may explain:
 
 ---
 
-#### Fig-000-SCE-Overview.png
+### Fig-000-SCE-Overview.png
 
 ![(docs/figures/Fig-000-SCE-Overview.png](docs/figures/Fig-000-SCE-Overview.png)
 
@@ -93,7 +93,7 @@ Modern AI systems often require orders of magnitude more examples to achieve com
 Why?
 
 ---
-#### Fig-001-THE-CAT-PROBLEM.png
+### Fig-001-THE-CAT-PROBLEM.png
 
 ![./docs/figures/Fig-001-THE-CAT-PROBLEM.png](./docs/figures/Fig-001-THE-CAT-PROBLEM.png)
 
@@ -130,7 +130,7 @@ Intelligence is therefore not merely answer generation.
 Intelligence is the continuous emergence of concepts, questions, and new structures.
 
 ---
-#### Fig-002-DIFFERENTIAL-CONCEPT-FORMATION.png
+### Fig-002-DIFFERENTIAL-CONCEPT-FORMATION.png
 
 ![./docs/figures/Fig-002-DIFFERENTIAL-CONCEPT-FORMATION.png](./docs/figures/Fig-002-DIFFERENTIAL-CONCEPT-FORMATION.png)
 
@@ -171,7 +171,7 @@ The most important step may be the appearance of the question.
 ## Why Children Ask So Many Questions
 
 ---
-#### Fig-006-QUESTION-EMERGENCE.png
+### Fig-006-QUESTION-EMERGENCE.png
 
 ![./docs/figures/Fig-006-QUESTION-EMERGENCE.png](./docs/figures/Fig-006-QUESTION-EMERGENCE.png)
 
@@ -201,7 +201,7 @@ In this view:
 ## Gap Detection and Why Generation
 
 ---
-#### Fig-005-GAP-DETECTION-AND-WHY-GENERATION.png
+### Fig-005-GAP-DETECTION-AND-WHY-GENERATION.png
 
 ![./docs/figures/Fig-005-GAP-DETECTION-AND-WHY-GENERATION.png](./docs/figures/Fig-005-GAP-DETECTION-AND-WHY-GENERATION.png)
 
@@ -231,7 +231,7 @@ Questions emerge.
 ## Knowledge Grows In Place
 
 ---
-#### Fig-003-IN-SITU-KNOWLEDGE-GROWTH.png
+### Fig-003-IN-SITU-KNOWLEDGE-GROWTH.png
 
 ![./docs/figures/Fig-003-IN-SITU-KNOWLEDGE-GROWTH.png](./docs/figures/Fig-003-IN-SITU-KNOWLEDGE-GROWTH.png)
 
@@ -259,7 +259,7 @@ Learning becomes more like growth.
 ## Concepts as Calling Graphs
 
 ---
-#### Fig-004-CALLING-GRAPH-EMERGENCE.png
+### Fig-004-CALLING-GRAPH-EMERGENCE.png
 
 ![./docs/figures/Fig-004-CALLING-GRAPH-EMERGENCE.png](./docs/figures/Fig-004-CALLING-GRAPH-EMERGENCE.png)
 
@@ -296,7 +296,7 @@ As new gaps appear, new questions emerge.
 ## From Children to Scientists
 
 ---
-#### Fig-007-CHILDREN-SCIENTISTS-ENTREPRENEURS.png
+### Fig-007-CHILDREN-SCIENTISTS-ENTREPRENEURS.png
 
 ![./docs/figures/Fig-007-CHILDREN-SCIENTISTS-ENTREPRENEURS.png](./docs/figures/Fig-007-CHILDREN-SCIENTISTS-ENTREPRENEURS.png)
 
@@ -325,7 +325,7 @@ In this sense, scientific discovery may be an extension of childhood curiosity r
 ## Toward Autonomous AI
 
 ---
-#### Fig-009-FROM-WHY-TO-AUTONOMOUS-AI.png
+### Fig-009-FROM-WHY-TO-AUTONOMOUS-AI.png
 
 ![./figures/Docs/Fig-009-FROM-WHY-TO-AUTONOMOUS-AI.png](./docs/figures/Fig-009-FROM-WHY-TO-AUTONOMOUS-AI.png)
 
