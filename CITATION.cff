@@ -1,59 +1,32 @@
-
 cff-version: 1.2.0
-message: "If you use this work, please cite it using the metadata from this file."
-title: "Structural Cognitive Emergence (SCE): From Cat Recognition to Why Generation"
-version: 1.0.0
-date-released: 2026-06-17
-type: dataset
-license: Apache-2.0
-
+title: "Structural Cognitive Emergence (SCE): Toward Structural Cognitive Runtime and Brain-Unit Intelligence"
+message: "If you use this repository, please cite it using the metadata from this file."
+type: software
 authors:
-
-* family-names: Tan
-  given-names: Sizhe
-  affiliation: Independent Researcher
-* name: GPT-Obot
-  affiliation: OpenAI ChatGPT
-
-abstract: >-
-Structural Cognitive Emergence (SCE) is a structural intelligence framework
-investigating how concepts, questions, curiosity, and autonomous inquiry may
-emerge from growing cognitive structures. Starting from the Cat Problem —
-why a child can form a concept from only a few examples — this repository
-develops a structural account of differential concept formation, in-situ
-knowledge growth, calling graph emergence, gap detection, why generation,
-education as question preservation, autonomous AI, and cross-graph gap
-emergence. The project proposes that questions are not stored linguistic
-objects but triggered cognitive events arising from unresolved structural gaps.
-
+  - family-names: "Tan"
+    given-names: "Sizhe"
+    affiliation: "Independent Researcher"
+abstract: >
+  Structural Cognitive Emergence (SCE) investigates how structural cognition may emerge from sparse examples,
+  structural gaps, and developmental feedback rather than from brute-force memorization or purely black-box
+  pattern fitting. The repository studies sparse concept formation, gap-driven why-question generation,
+  in-situ structural knowledge growth, and a three-layer structural substrate built on Calling Graphs (CG),
+  Differential Trees (DT), and Triggering Links (TL). This release extends SCE into its runtime phase through
+  new work on Structural Cognitive Runtime (SCR), including runtime-oriented texts on three-cats reasoning,
+  Gap/Why mechanisms, the twin of knowledge and mechanism, and a PRD for ASI Brain Units and Brain Unit Core.
+  The repository now spans both structural cognitive emergence and its runtime extension toward brain-unit
+  intelligence and LLM-hybrid structural cognitive systems.
 keywords:
-
-* Structural Cognitive Emergence
-* SCE
-* Structural Intelligence
-* Concept Formation
-* Question Emergence
-* Why Generation
-* Gap Detection
-* Calling Graph
-* Differential Tree
-* In-Situ Knowledge Growth
-* Autonomous AI
-* Multi-Brain AI
-* Cross-Graph Gap Emergence
-
-repository-code: "https://github.com/sizhet/Structural-Cognitive-Emergence-SCE"
-url: "https://github.com/sizhet/Structural-Cognitive-Emergence-SCE"
-
-preferred-citation:
-type: generic
-title: "Structural Cognitive Emergence (SCE): From Cat Recognition to Why Generation"
-authors:
-- family-names: Tan
-given-names: Sizhe
-affiliation: Independent Researcher
-- name: GPT-Obot
-affiliation: OpenAI ChatGPT
-year: 2026
-version: 1.0.0
-repository-code: "https://github.com/sizhet/Structural-Cognitive-Emergence-SCE"
+  - Structural Cognitive Emergence
+  - Structural Cognitive Runtime
+  - SCR
+  - ASI Brain Units
+  - Brain Unit Core
+  - Sparse Concept Formation
+  - Gap Why
+  - Calling Graph
+  - Differential Tree
+  - Triggering Links
+  - Developmental Learning
+  - LLM Hybrid Runtime
+license: Apache-2.0

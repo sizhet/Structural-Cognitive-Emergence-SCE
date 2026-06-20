@@ -1,44 +1,31 @@
 {
-  "title": "Structural Cognitive Emergence (SCE): From Cat Recognition to Why Generation",
+  "title": "Structural Cognitive Emergence (SCE): Toward Structural Cognitive Runtime and Brain-Unit Intelligence",
   "creators": [
     {
       "name": "Tan, Sizhe",
       "affiliation": "Independent Researcher"
-    },
-    {
-      "name": "GPT-Obot",
-      "affiliation": "OpenAI ChatGPT"
     }
   ],
-  "description": "Structural Cognitive Emergence (SCE) is a structural intelligence framework investigating how concepts, questions, curiosity, and autonomous inquiry may emerge from growing cognitive structures. Starting from the Cat Problem — why a child can form a concept from only a few examples — this repository develops a structural account of differential concept formation, in-situ knowledge growth, calling graph emergence, gap detection, why generation, education as question preservation, autonomous AI, and cross-graph gap emergence. The project proposes that questions are not stored linguistic objects but triggered cognitive events arising from unresolved structural gaps.",
+  "description": "Structural Cognitive Emergence (SCE) investigates how structural cognition may emerge from sparse examples, structural gaps, and developmental feedback rather than from brute-force memorization or purely black-box pattern fitting. The repository studies sparse concept formation, gap-driven why-question generation, in-situ structural knowledge growth, and a three-layer structural substrate built on Calling Graphs (CG), Differential Trees (DT), and Triggering Links (TL). This release extends SCE into its runtime phase through a new line of work on Structural Cognitive Runtime (SCR), including SCE-014, SCE-015, and SCE-016. In particular, SCE-016 proposes SCR as a runtime architecture for ASI Brain Units and Brain Unit Core, with explicit layers for structural memory, structural localization, sparse concept formation, Gap/Why generation, developmental structural update, and decision/action/escalation. The release also clarifies the distinction between front-end Brain Units and a larger structural backend, and discusses how LLMs may function as language, coding, hypothesis, simulation, and explanation engines inside a broader structural runtime.",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "license": "Apache-2.0",
   "keywords": [
     "Structural Cognitive Emergence",
-    "SCE",
-    "Structural Intelligence",
-    "Concept Formation",
-    "Question Emergence",
+    "Structural Cognitive Runtime",
+    "SCR",
+    "ASI Brain Units",
+    "Brain Unit Core",
+    "Sparse Concept Formation",
+    "Gap Why",
     "Why Generation",
-    "Gap Detection",
     "Calling Graph",
     "Differential Tree",
+    "Triggering Links",
+    "Developmental Learning",
     "In-Situ Knowledge Growth",
-    "Autonomous AI",
-    "Multi-Brain AI",
-    "Cross-Graph Gap Emergence",
-    "AI Education",
-    "Cognitive Growth"
-  ],
-  "license": "Apache-2.0",
-  "upload_type": "publication",
-  "publication_type": "workingpaper",
-  "access_right": "open",
-  "language": "eng",
-  "version": "1.0.0",
-  "related_identifiers": [
-    {
-      "identifier": "https://github.com/sizhet/Structural-Cognitive-Emergence-SCE",
-      "relation": "isSupplementTo",
-      "scheme": "url"
-    }
+    "LLM Hybrid Runtime",
+    "Structural Intelligence",
+    "Autonomous Structural Intelligence"
   ]
 }
