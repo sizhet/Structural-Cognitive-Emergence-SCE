@@ -1,42 +1,19 @@
+# README.md — Minimal Update Draft for the SCE Runtime Expansion Release
+
 # Structural Cognitive Emergence (SCE)
-## From Cat Recognition to Why Generation
-### A Structural Theory of Concept Formation, Question Emergence, and Cognitive Growth
 
-## The Core Idea
+**Structural Cognitive Emergence (SCE)** studies how structural cognition may emerge from sparse examples, structural gaps, and developmental feedback rather than from brute-force memorization or purely black-box pattern fitting. The project explores concept formation, gap-driven why-generation, structural learning, and the minimum algorithmic substrate required for future **brain-unit intelligence**.
 
-Structural Cognitive Emergence (SCE) explores a simple but profound hypothesis:
+The repository gradually develops a structural view of cognition built around:
 
-> Concepts emerge from structures.
->
-> Questions emerge from gaps.
->
-> Intelligence grows through the continuous interaction of both.
+* **Calling Graphs (CG)** for relations, processes, and flow structure,
+* **Differential Trees (DT)** for categories, properties, naming, and concept boundaries,
+* **Triggering Links (TL)** for event/action indexing, threshold triggering, and action readiness,
+* **Three-Cats-style sparse concept formation**,
+* **Gap / Why mechanisms** for active structural questioning,
+* and **developmental structural update** inspired by fetal/infant learning feedback.
 
-In the SCE framework:
-
-```text
-Structure
-↓
-Gap
-↓
-Question
-↓
-Exploration
-↓
-New Structure
-```
-
-forms a self-sustaining cognitive growth loop.
-
-This repository investigates how this loop may explain:
-
-* concept formation,
-* childhood curiosity,
-* scientific discovery,
-* entrepreneurship,
-* education,
-* autonomous AI,
-* and future multi-brain cognitive systems.
+Over time, these ideas lead from **structural cognitive emergence** toward a first **runtime architecture** for structural cognition and **ASI Brain Units**.
 
 ---
 
@@ -46,346 +23,222 @@ This repository investigates how this loop may explain:
 
 ---
 
-## Introduction
+# Runtime Expansion Release
 
-One of the deepest mysteries in intelligence is surprisingly simple.
+This release marks an important transition in the SCE line:
 
-A child sees three cats.
+> **from Structural Cognitive Emergence to Structural Cognitive Runtime (SCR).**
 
-A few days later, the child suddenly understands:
+The main additions in this release are:
 
-> "This is a cat."
+* **SCE-014 — THREE-CATS REASONING, GAP WHY, AND STRUCTURAL COGNITIVE RUNTIME**
+* **SCE-015 — STRUCTURAL COGNITIVE RUNTIME: THE TWIN OF KNOWLEDGE AND MECHANISM**
+* **SCE-016 — Structural Cognitive Runtime (SCR): PRD for ASI Brain Units and Brain Unit Core**
+* **Fig-201 — Structural Cognitive Runtime (SCR): Overview of ASI Brain Units and Brain Unit Core**
 
-Soon after that, the child begins asking:
+Together, these additions extend SCE from an emergence-level account of structural cognition toward a first **runtime architecture** for:
 
-> Why do cats meow?
+* local structural cognitive units (**ASI Brain Units**),
+* a larger back-end **Brain Unit Core**,
+* and future **LLM-hybrid structural cognitive systems**.
 
-> Why do dogs not meow?
-
-> Why do tigers look like cats?
-
-> Why are some animals pets while others are not?
-
-At first glance, these seem like ordinary childhood questions.
-
-But hidden inside them may be one of the most important unsolved problems in cognitive science, education, and artificial intelligence.
-
-How does a concept emerge from only a few examples?
-
-How does a question emerge from a newly formed concept?
-
-And why can a young child do this naturally while modern AI systems often require enormous amounts of data?
-
-This repository explores these questions from a structural perspective.
-
-## Inspiration
-
-A major inspiration for this project comes from observations made by Transformer co-author Lukasz Kaiser.
-
-In recent interviews, Kaiser repeatedly highlighted two fundamental puzzles:
-
-### Puzzle 1: The Cat Problem
-
-A child may see only a handful of cats and quickly acquire the concept of "cat."
-
-Modern AI systems often require orders of magnitude more examples to achieve comparable robustness.
-
-Why?
-
----
-### Fig-001-THE-CAT-PROBLEM.png
-
-![./docs/figures/Fig-001-THE-CAT-PROBLEM.png](./docs/figures/Fig-001-THE-CAT-PROBLEM.png)
+This release does **not** replace the earlier SCE line. Instead, it builds on it. The repository should still be read as a continuous progression from sparse concept formation and gap-driven why generation toward structural cognitive runtime.
 
 ---
 
-### Puzzle 2: The Autonomous AI Problem
-
-Current AI systems are becoming increasingly capable of answering questions.
-
-However, they rarely generate meaningful new questions on their own.
-
-Why?
-
-These two puzzles appear unrelated.
-
-This repository proposes that they may actually originate from the same underlying mechanism.
-
-## The Central Hypothesis
-
-The central hypothesis of Structural Cognitive Emergence (SCE) is:
-
-> Concepts and questions are not stored objects.
-
-> They are emergent events arising from the growth of cognitive structures.
-
-In this view:
-
-- Concepts emerge when differential structures accumulate sufficient evidence.
-- Questions emerge when growing structures encounter unresolved gaps.
-- Learning emerges through iterative cycles of structure growth and gap resolution.
-
-Intelligence is therefore not merely answer generation.
-
-Intelligence is the continuous emergence of concepts, questions, and new structures.
-
----
-### Fig-002-DIFFERENTIAL-CONCEPT-FORMATION.png
-
-![./docs/figures/Fig-002-DIFFERENTIAL-CONCEPT-FORMATION.png](./docs/figures/Fig-002-DIFFERENTIAL-CONCEPT-FORMATION.png)
+![./docs/figures/Fig-201-From-Structural-Cognitive-Emergence-to-Structural-Cognitive-Runtime.png](./docs/figures/Fig-201-From-Structural-Cognitive-Emergence-to-Structural-Cognitive-Runtime.png)
 
 ---
 
-## From Recognition to Why
+# What This Repository Studies
 
-Traditional AI systems are often viewed as:
+At a high level, SCE asks a family of connected questions:
 
-    Input
-     ↓
-    Prediction
-     ↓
-    Output
+1. **How can a concept emerge from only a few structurally informative examples?**
+2. **How do structural gaps give rise to “why” questions?**
+3. **How can knowledge grow in situ through interaction, mismatch, and feedback?**
+4. **What structural substrate is required for these processes?**
+5. **How do these emergence mechanisms scale toward runtime architectures for autonomous cognitive units?**
 
-SCE proposes a different perspective:
+The repository approaches these questions through a sequence of texts that move from:
 
-    Observation
-     ↓
-    Differential Growth
-     ↓
-    Concept Emergence
-     ↓
-    Graph Expansion
-     ↓
-    Gap Detection
-     ↓
-    Question Emergence
-     ↓
-    Exploration
-     ↓
-    Cognitive Growth
-
-The most important step may not be the answer.
-
-The most important step may be the appearance of the question.
-
-## Why Children Ask So Many Questions
-
----
-### Fig-006-QUESTION-EMERGENCE.png
-
-![./docs/figures/Fig-006-QUESTION-EMERGENCE.png](./docs/figures/Fig-006-QUESTION-EMERGENCE.png)
+* the **cat problem** and sparse concept formation,
+* to **gap detection and question emergence**,
+* to **structural cognitive emergence as a general framework**,
+* and finally to **Structural Cognitive Runtime (SCR)**.
 
 ---
 
-Children are often viewed as asking questions because they know very little.
+# Reading Guide by Theme
 
-SCE proposes a different interpretation.
-
-Children may ask many questions because their cognitive structures are growing rapidly.
-
-As concepts accumulate:
-
-- new relationships appear,
-- new comparisons become possible,
-- new contradictions emerge,
-- new gaps become visible.
-
-Questions naturally arise from these gaps.
-
-In this view:
-
-> A question is not evidence of ignorance.
-
-> A question may be evidence of cognitive growth.
-
-## Gap Detection and Why Generation
-
----
-### Fig-005-GAP-DETECTION-AND-WHY-GENERATION.png
-
-![./docs/figures/Fig-005-GAP-DETECTION-AND-WHY-GENERATION.png](./docs/figures/Fig-005-GAP-DETECTION-AND-WHY-GENERATION.png)
+The original document order is preserved.
+For new readers, the repository can be read in **four thematic phases**.
 
 ---
 
-One of the core ideas explored in this repository is:
+## Part I — Foundations of Structural Cognitive Emergence
 
-> Why may be the linguistic expression of a structural gap.
+These texts introduce the basic problem of sparse structural concept formation and the need for structural, rather than purely statistical, accounts of cognition.
 
-When a cognitive system encounters:
+* **SCE-001 — THE-CAT-PROBLEM.md**
+* **SCE-002 — DIFFERENTIAL-CONCEPT-FORMATION.md**
+* **SCE-003 — IN-SITU-KNOWLEDGE-GROWTH.md**
+* **SCE-004 — CALLING-GRAPH-EMERGENCE.md**
+* **SCE-005 — GAP DETECTION AND WHY GENERATION.md**
+* **SCE-006 — QUESTION EMERGENCE.md**
 
-- an inconsistency,
-- a missing relationship,
-- an unexplained transition,
-- an incomplete calling graph,
-
-a gap becomes visible.
-
-The appearance of a gap may trigger:
-
-    WHY?
-
-Questions therefore do not need to be pre-stored.
-
-Questions emerge.
-
-## Knowledge Grows In Place
-
----
-### Fig-003-IN-SITU-KNOWLEDGE-GROWTH.png
-
-![./docs/figures/Fig-003-IN-SITU-KNOWLEDGE-GROWTH.png](./docs/figures/Fig-003-IN-SITU-KNOWLEDGE-GROWTH.png)
+**Recommended for readers who want the basic emergence story first.**
 
 ---
 
-SCE also proposes that knowledge may grow differently from how modern AI systems are typically trained.
+## Part II — Human Development, Education, and Why Preservation
 
-Instead of repeatedly replacing old structures, biological cognition may primarily expand existing structures in place.
+These texts extend the discussion from isolated concept formation toward developmental cognition, question preservation, and the broader human meaning of structural why-generation.
 
-From:
+* **SCE-007 — CHILDREN, SCIENTISTS, AND ENTREPRENEURS.md**
+* **SCE-008 — EDUCATION AS QUESTION PRESERVATION.md**
+* **SCE-009 — FROM WHY TO AUTONOMOUS AI.md**
 
-- prenatal development,
-- infancy,
-- childhood,
-- adolescence,
-- adulthood,
-- scientific discovery,
-
-knowledge may continuously accumulate around growing structural networks.
-
-Learning becomes less like rewriting.
-
-Learning becomes more like growth.
-
-## Concepts as Calling Graphs
-
----
-### Fig-004-CALLING-GRAPH-EMERGENCE.png
-
-![./docs/figures/Fig-004-CALLING-GRAPH-EMERGENCE.png](./docs/figures/Fig-004-CALLING-GRAPH-EMERGENCE.png)
+**Recommended for readers interested in learning, education, human development, and why-preserving intelligence.**
 
 ---
 
-Another central idea explored in this repository is that concepts are not merely labels.
+## Part III — SCE as a General Structural Framework
 
-A concept may instead resemble a growing calling graph.
+These texts present SCE more explicitly as a general structural framework and connect it to cross-graph reasoning, LLMs, and methodology.
 
-For example, the concept:
+* **SCE-010 — STRUCTURAL COGNITIVE EMERGENCE.md**
+* **SCE-011 — CROSS-GRAPH GAP EMERGENCE.md**
+* **SCE-012 — LLMs and Structural Cognitive Emergence.md**
+* **SCE-013 — FROM PRACTITIONER INTERVIEWS TO STRUCTURAL DISCOVERY.md**
 
-    Cat
-
-naturally connects to:
-
-    Animal
-    Tail
-    Mouse
-    Pet
-    Tiger
-    Scratch
-    Meow
-    Home
-    Hunting
-
-The concept is not a single node.
-
-The concept is an expanding structure.
-
-As the structure expands, new gaps appear.
-
-As new gaps appear, new questions emerge.
-
-## From Children to Scientists
-
----
-### Fig-007-CHILDREN-SCIENTISTS-ENTREPRENEURS.png
-
-![./docs/figures/Fig-007-CHILDREN-SCIENTISTS-ENTREPRENEURS.png](./docs/figures/Fig-007-CHILDREN-SCIENTISTS-ENTREPRENEURS.png)
+**Recommended for readers who want the broader framework view before entering the runtime phase.**
 
 ---
 
-The same mechanism may operate across all scales of cognition.
+## Part IV — Runtime Phase: From Emergence to Structural Cognitive Runtime (SCR)
 
-A child asks:
+These texts mark the transition from emergence-level theory to runtime-level architecture.
 
-> Why does a cat meow?
+* **SCE-014 — THREE-CATS REASONING, GAP WHY, AND STRUCTURAL COGNITIVE RUNTIME.md**
+* **SCE-015 — STRUCTURAL COGNITIVE RUNTIME: THE TWIN OF KNOWLEDGE AND MECHANISM.md**
+* **SCE-016 — Structural Cognitive Runtime (SCR): PRD for ASI Brain Units and Brain Unit Core.md**
 
-A scientist asks:
+This phase develops the idea that structural cognition should not remain only a theory of emergence. It should also be organized into an explicit runtime architecture with:
 
-> Why does gravity exist?
+* structural memory,
+* structural localization,
+* sparse concept formation,
+* gap / why generation,
+* developmental update,
+* and decision / action / escalation interfaces.
 
-An entrepreneur asks:
-
-> Why must things be done this way?
-
-Although the domains differ, the underlying mechanism may be similar.
-
-Each question emerges from a perceived structural gap.
-
-In this sense, scientific discovery may be an extension of childhood curiosity rather than its replacement.
-
-## Toward Autonomous AI
-
----
-### Fig-009-FROM-WHY-TO-AUTONOMOUS-AI.png
-
-![./figures/Docs/Fig-009-FROM-WHY-TO-AUTONOMOUS-AI.png](./docs/figures/Fig-009-FROM-WHY-TO-AUTONOMOUS-AI.png)
+**Recommended for readers specifically interested in ASI Brain Units, Brain Unit Core, runtime design, and the transition from SCE to SCR.**
 
 ---
 
-Modern AI systems have become extraordinarily capable answer generators.
+# Suggested Reading Paths
 
-Future AI systems may require something more.
+## If you are new to the repository
 
-They may require:
+Read in this order:
 
-- concept emergence,
-- gap detection,
-- question generation,
-- autonomous exploration.
+1. **SCE-001 — THE-CAT-PROBLEM**
+2. **SCE-005 — GAP DETECTION AND WHY GENERATION**
+3. **SCE-010 — STRUCTURAL COGNITIVE EMERGENCE**
+4. **SCE-014 — THREE-CATS REASONING, GAP WHY, AND STRUCTURAL COGNITIVE RUNTIME**
+5. **SCE-016 — Structural Cognitive Runtime (SCR)**
 
-SCE investigates whether these capabilities can emerge from:
+This path gives the shortest route from the original cat problem to the new runtime phase.
 
-- differential structures,
-- calling graphs,
-- trigger mechanisms,
-- structural growth processes.
+## If you want the runtime line directly
 
-Rather than asking:
+Start with:
 
-> How can AI answer better?
+1. **SCE-014**
+2. **SCE-015**
+3. **SCE-016**
 
-SCE asks:
+Then go back to:
 
-> How can AI discover what to ask?
+* **SCE-001 / 002 / 005 / 010** as needed for foundations.
 
-## Repository Roadmap
+## If you are mainly interested in LLM / AI system implications
 
-This repository explores:
+Start with:
 
-- The Cat Problem
-- Differential Concept Formation
-- In-Situ Knowledge Growth
-- Calling Graph Emergence
-- Gap Detection and Why Generation
-- Question Emergence
-- Children, Scientists, and Entrepreneurs
-- Education as Question Preservation
-- Autonomous AI and Structural Curiosity
-- Structural Cognitive Emergence Theory
+1. **SCE-009 — FROM WHY TO AUTONOMOUS AI**
+2. **SCE-012 — LLMs and Structural Cognitive Emergence**
+3. **SCE-014**
+4. **SCE-015**
+5. **SCE-016**
 
-## Final Thought
+---
 
-Children do not begin life with a database of questions.
+# Figures / Quick Links
 
-Yet they ask questions endlessly.
+## Key Runtime Figure
 
-Perhaps questions are not stored.
+* **Fig-201 — Structural Cognitive Runtime (SCR): Overview of ASI Brain Units and Brain Unit Core**
 
-Perhaps questions emerge when growing cognitive structures encounter unresolved gaps.
+This figure summarizes the runtime expansion of SCE and shows the relationship among:
 
-If so, understanding how questions emerge may be just as important as understanding how answers are generated.
+* the SCE foundations,
+* the six-layer SCR runtime loop,
+* front-end ASI Brain Units,
+* back-end Brain Unit Core,
+* and LLM-hybrid runtime interfaces.
 
-And that may be one of the most important challenges for both human learning and future artificial intelligence.
+## Key Framework Texts
 
+* **SCE-010 — STRUCTURAL COGNITIVE EMERGENCE**
+* **SCE-014 — THREE-CATS REASONING, GAP WHY, AND STRUCTURAL COGNITIVE RUNTIME**
+* **SCE-015 — STRUCTURAL COGNITIVE RUNTIME: THE TWIN OF KNOWLEDGE AND MECHANISM**
+* **SCE-016 — Structural Cognitive Runtime (SCR): PRD for ASI Brain Units and Brain Unit Core**
+
+## If you want the shortest bridge from SCE to runtime
+
+Read:
+
+* **SCE-005**
+* **SCE-010**
+* **SCE-014**
+* **SCE-015**
+* **SCE-016**
+
+---
+
+# Repository Status
+
+The repository currently spans two closely connected phases:
+
+## Phase A — Structural Cognitive Emergence
+
+How structural concepts, gaps, and why-mechanisms emerge from sparse examples, mismatch, and developmental feedback.
+
+## Phase B — Structural Cognitive Runtime
+
+How those mechanisms may be organized into an explicit runtime architecture for:
+
+* **ASI Brain Units**,
+* **Brain Unit Core**,
+* and future **LLM-hybrid structural cognitive systems**.
+
+The current release should be understood as the beginning of **SCE’s runtime phase**, not as a replacement of the earlier emergence work.
+
+---
+
+# Related Direction of This Release
+
+This runtime expansion is especially relevant to readers interested in:
+
+* sparse concept formation,
+* gap-driven why generation,
+* developmental structural learning,
+* structural cognitive runtime,
+* ASI Brain Units,
+* Brain Unit Core,
+* and future structural alternatives or complements to purely monolithic LLM-based AI systems.
 
 ---
 
@@ -401,7 +254,7 @@ AI Research Assistant
 
 ## Citation
 
-DOI: 10.5281/zenodo.20740824
+DOI: TBD
 
 ## License
 
